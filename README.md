@@ -1,5 +1,4 @@
-
-<!--<h1>Why did I do this.</h1>
+<h1>Why did I do this.</h1>
 <br><h3>
 <br>(Crypto currency name)
 <br>Ideas to put in: 
@@ -11,4 +10,3 @@
 <br>  o Make a blockchain for it. 
 <br>  o Give it a worth over 0 cents?
 </p>
--->
